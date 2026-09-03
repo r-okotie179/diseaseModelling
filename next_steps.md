@@ -1,0 +1,4 @@
+- adding culling policies within the code (with functions that are actually useful)
+- add sliders to adjust the rendering to see how parameters adjust outcomes (is this necessary since everything is synthetic?)
+- do many tests with different culling policies
+- get some quantitative output from this; what could they be and how useful would they be
